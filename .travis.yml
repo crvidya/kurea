@@ -4,5 +4,6 @@ node_js:
  
    - "0.10"
    - "0.8"
-notifications:
-  email: vidyac.raghav@gmail.com
+nnotifications:
+  email:
+    - vidyac.raghav@gmail.com
